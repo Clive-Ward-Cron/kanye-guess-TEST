@@ -1,0 +1,15 @@
+{
+  "name": "kanye-guess",
+  "version": "1.0.0",
+  "description": "A silly guessing game to see if you can spot the Kanye quote mixed with other quotes.",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Clive Ward-Cron <clive@ward-cron.design> (https://ward-cron.design)",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
