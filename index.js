@@ -1,4 +1,5 @@
 import yeQuotes from './data/kanye';
+import { a, b, c, d } from './elements';
 
 const zendpoint = 'http://zenquotes.io/api/quotes/';
 // const yendpoint = 'https://api.kanye.rest';
@@ -24,4 +25,6 @@ async function init() {
   console.log(zen);
 }
 
-init();
+console.log({ a, b, c, d });
+
+// init();
